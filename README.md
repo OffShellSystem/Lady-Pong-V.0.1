@@ -22,6 +22,9 @@ http://www.shelldredd.tk/
 https://www.offshellsystem.tk/p/offshell-system.html
 
 # ¿Te gustan los programas de OffShell System?
- Puedes ayudarme a continuar desarrollando Software de código abierto o libre donando lo que consideres necesario desde este enlace   de PayPal. Gracias de antermano usuari@.
+ Puedes ayudarme a continuar desarrollando Software de código abierto comprando cualquier producto en Amazon o donando lo que consideres necesario desde PayPal. Gracias de antermano usuari@.
+·Amazon:
+https://amzn.to/2ZYEuQH
 
+·PayPal:
 https://www.paypal.com/donate/?token=inmEfI4UhJqAuHm1H2BVsdQiLkKdca-unYJxZd9eGO-fCu8B2i8HpuPOXk4rYs5ByusBrW&country.x=ES&locale.x=ES
