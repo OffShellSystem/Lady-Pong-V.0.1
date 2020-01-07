@@ -23,6 +23,7 @@ https://www.offshellsystem.tk/p/offshell-system.html
 
 # ¿Te gustan los programas de OffShell System?
  Puedes ayudarme a continuar desarrollando Software de código abierto comprando cualquier producto en Amazon o donando lo que consideres necesario desde PayPal. Gracias de antermano usuari@.
+
 ·Amazon:
 https://amzn.to/2ZYEuQH
 
