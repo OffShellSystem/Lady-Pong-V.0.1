@@ -6,9 +6,9 @@ Script for scanning web address by OffShell System
 # Instalación Sistemas Gnu/Linux
 Nos situamos en la carpeta raíz de la aplicación, abrimos una terminal en la carpeta y ejecutamos lo siguiente:
 
-$ sudo chmod +x gosoff.py
-
-$ ./gosoff.py
+$ sudo chmod +x lady_pong_v-0_1.py
+A continuación ejecutamos:
+$ ./lady_pong_v-0_1.py
 
 La aplicación se iniciará.
 
