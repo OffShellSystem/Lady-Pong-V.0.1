@@ -1,5 +1,5 @@
 # Lady-Pong-V.0.1
-![alt text](https://irminsuldigital.files.wordpress.com/2014/05/1984-31.jpg)
+![alt text](https://images-na.ssl-images-amazon.com/images/I/71diu651v%2BL._SX522_.jpg)
 # Lady-Pong-V.0.1
 Script for scanning web address by OffShell System
 
