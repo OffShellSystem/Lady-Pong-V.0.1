@@ -19,7 +19,7 @@ cs_color='\033[0;m'
 purpura="\x1b[1;35m"
 verde="\x1b[1;32m"
 
-
+os.system('sudo apt-get install toilet')
 
 print " "
 print " "
