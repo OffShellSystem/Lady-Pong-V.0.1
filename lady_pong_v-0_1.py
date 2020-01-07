@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from Tkinter import *
-import Tkinter as tk
-import webbrowser
 from subprocess import call
 import subprocess
 import os
