@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Autor: Alexandre Varela Sixto
+
 from subprocess import call
 import subprocess
 import os
